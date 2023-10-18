@@ -1,16 +1,12 @@
-# proj_imc_calc
+# Lista de Tarefas
 
-A new Flutter project.
+Este é um projeto de aplicativo móvel que permite ao usuário criar, editar e excluir tarefas. O aplicativo usa o framework Flutter e a linguagem Dart para criar uma interface simples e intuitiva.  O usuário pode marcar as tarefas como concluídas ou não concluídas, e filtrar as tarefas por status.
 
-## Getting Started
+## Como usar
 
-This project is a starting point for a Flutter application.
+Para executar este projeto, você precisa ter o Flutter SDK instalado em seu computador. Você também precisa de um emulador ou dispositivo Android ou iOS para testar o aplicativo. Siga os passos abaixo:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Clone este repositório para sua máquina local.
+- Abra um terminal e navegue até a pasta do projeto.
+- Execute o comando `flutter pub get` para instalar as dependências.
+- Execute o comando `flutter run` para iniciar o aplicativo no emulador ou dispositivo conectado.
